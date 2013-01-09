@@ -1,0 +1,15 @@
+[submodule "ciana"]
+	path = ciana
+	url = git@github.com:SpenserJ/Ciana.git
+[submodule "cookbooks/build-essential"]
+	path = cookbooks/build-essential
+	url = git@github.com:opscode-cookbooks/build-essential.git
+[submodule "cookbooks/nodejs"]
+	path = cookbooks/nodejs
+	url = git@github.com:mdxp/nodejs-cookbook.git
+[submodule "cookbooks/mongodb"]
+	path = cookbooks/mongodb
+	url = git@github.com:edelight/chef-mongodb.git
+[submodule "cookbooks/apt"]
+	path = cookbooks/apt
+	url = git@github.com:opscode-cookbooks/apt.git
